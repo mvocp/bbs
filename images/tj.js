@@ -1,0 +1,3 @@
+document.writeln("<script src=\"http:\/\/s84.cnzz.com\/stat.php?id=1876964&web_id=1876964\" language=\"JavaScript\"><\/script>");
+document.writeln("<script language=\"javascript\" type=\"text\/javascript\" src=\"http:\/\/js.users.51.la\/3388535.js\"><\/script>");
+document.writeln("<noscript><a href=\"http:\/\/www.51.la\/?3388535\" target=\"_blank\"><img alt=\"&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;\" src=\"http:\/\/img.users.51.la\/3388535.asp\" style=\"border:none\" \/><\/a><\/noscript>")
